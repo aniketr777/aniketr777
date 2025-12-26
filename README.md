@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Aniket Rathore 👋
 
-<!--
-**aniketr777/aniketr777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer working with **JavaScript** and **Python**. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the projects I have been working on:
+
+### 🐍 Python
+*   **[FestManagementSystem](https://github.com/aniketr777/FestManagementSystem)**: A system designed for managing festival activities and logistics.
+*   **[EventManagement2](https://github.com/aniketr777/EventManagement2)**: A backend-focused event management solution.
+
+### 💛 JavaScript
+*   **[RealTimeTracker](https://github.com/aniketr777/RealTimeTracker)**: A real-time tracking application.
+*   **[EventManagement](https://github.com/aniketr777/EventManagement)**: A JavaScript-based implementation for managing events.
+*   **[BreakingBug-Frontend](https://github.com/aniketr777/BreakingBug-Frontend)**: Frontend development for the Breaking Bug initiative.
+
+## 🛠 Languages & Tools
+
+*   **Languages:** Python, JavaScript
+*   **Interests:** Event Management Systems, Real-time Applications, Frontend Development
+
+---
+*Connect with me to collaborate on new projects!*
